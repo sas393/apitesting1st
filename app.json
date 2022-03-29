@@ -1,0 +1,13 @@
+{
+  "name": "Reqover",
+  "description": "Swagger coverage tool",
+  "repository": "https://github.com/reqover/docs",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "stack": "container",
+  "env": {
+    "API_SERVICE_URL": "https://ms.42clouds.com/ms-help/hs/help",
+    "SWAGGER_SPEC_URL": "https://ms.42clouds.com/ms-help/hs/help/openApi.json"
+  },
+  "success_url": "/"
+}
