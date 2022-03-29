@@ -9,5 +9,5 @@
     "API_SERVICE_URL": "https://ms.42clouds.com/ms-help/hs/help",
     "SWAGGER_SPEC_URL": "https://ms.42clouds.com/ms-help/hs/help/openApi.json"
   },
-  "success_url": "ms-help/hs/help/"
+  "success_url": "/"
 }
